@@ -1,0 +1,35 @@
+Recipe_Name,Creator_Source,Flour_g,Bread_Flour_Y_N,Cake_Flour_Y_N,Baking_Soda_Y_N,Baking_Powder_Y_N,Cornstarch_Y_N,Salt_tsp,Butter_g,Brown_Butter_Y_N,Brown_Sugar_g,White_Sugar_g,Total_Sugar_g,Brown_Sugar_Pct,White_Sugar_Pct,Whole_Eggs,Extra_Yolk_Y_N,Vanilla_tsp,Chocolate_g,Min_Chill_Time_hrs,Bake_Temp_F,Avg_Bake_Time_min,Yield_Cookies,Recipe_Rating_5,Meets_Crispy_Edge_Y_N,Meets_Chewy_Middle_Y_N,Meets_Caramel_Flavor_Y_N,Criteria_Score_0_3,Meets_All_Criteria_Y_N
+Preppy Kitchen Classic CCC,Preppy Kitchen,270,N,N,Y,N,N,0.75,227,N,165,150,315,52.4,47.6,1,N,3.0,270,0.5,375,11,32,4.7,Y,N,N,1,N
+Preppy Kitchen Brown Butter CCC,Preppy Kitchen,320,N,N,Y,Y,N,0.75,282,Y,165,100,265,62.3,37.7,1,Y,2.0,360,0.33,350,12,18,4.75,N,Y,Y,2,N
+Broma Bakery Best CCC,Broma Bakery,220,N,N,Y,N,N,0.75,168,Y,200,50,250,80.0,20.0,1,Y,3.0,225,1.0,350,11,14,4.9,N,Y,Y,2,N
+Broma Bakery Mom's CCC,Broma Bakery,250,N,N,Y,N,Y,0.5,170,N,220,0,220,100.0,0.0,1,N,2.0,200,0.0,350,11,18,4.8,N,Y,Y,2,N
+Jacques Torres / NYT CCC,Jacques Torres,458,Y,Y,Y,Y,N,1.5,278,N,280,224,504,55.6,44.4,2,N,2.0,570,24.0,350,17,20,4.9,N,Y,N,1,N
+Toll House Original CCC,Nestle / Toll House,280,N,N,Y,N,N,1.0,227,N,165,150,315,52.4,47.6,2,N,1.0,340,0.0,375,11,60,4.5,Y,N,N,1,N
+Alton Brown The Chewy,Alton Brown / Food Net.,256,Y,N,Y,N,N,1.0,168,N,275,50,325,84.6,15.4,1,Y,1.5,340,0.0,375,14,24,4.8,Y,Y,Y,3,Y
+Alton Brown The Thin,Alton Brown / Food Net.,270,N,N,Y,N,N,1.0,227,N,110,200,310,35.5,64.5,2,N,1.5,340,0.0,375,13,30,4.4,Y,N,N,1,N
+Alton Brown The Puffy,Alton Brown / Food Net.,280,N,N,N,Y,N,1.0,170,N,165,150,315,52.4,47.6,2,N,1.5,255,0.0,350,13,24,4.3,Y,N,N,1,N
+Sally's Baking Addiction Chewy CCC,Sally's Baking Addiction,280,N,N,Y,N,Y,1.0,170,N,220,100,320,68.8,31.2,1,Y,2.0,215,2.0,325,11,24,4.9,N,Y,N,1,N
+Sally's Baking Addiction Soft CCC,Sally's Baking Addiction,280,N,N,Y,N,Y,0.5,170,N,165,50,215,76.7,23.3,1,N,1.0,170,1.0,350,10,24,4.8,N,Y,Y,2,N
+Sally's Baking Addiction Crispy CCC,Sally's Baking Addiction,250,N,N,Y,N,N,0.75,170,N,100,200,300,33.3,66.7,0,Y,1.0,170,0.0,375,10,36,4.6,Y,Y,N,2,N
+Sally's Baking Addiction Brown Butter CCC,Sally's Baking Add.,280,N,N,Y,N,N,0.75,227,Y,220,100,320,68.8,31.2,1,Y,2.0,255,1.0,350,12,20,4.8,N,Y,Y,2,N
+America's Test Kitchen Thick & Chewy,America's Test Kitchen,270,N,N,Y,N,N,1.0,227,Y,220,100,320,68.8,31.2,1,Y,2.0,340,0.0,325,18,18,4.8,N,Y,Y,2,N
+Serious Eats Kenji Lopez-Alt CCC,Serious Eats,270,N,N,Y,N,N,1.0,227,Y,200,100,300,66.7,33.3,1,Y,2.0,340,0.0,325,14,18,4.8,N,Y,Y,2,N
+King Arthur Baking Classic CCC,King Arthur Baking,280,N,N,Y,N,N,1.0,227,N,165,150,315,52.4,47.6,2,N,2.0,340,0.0,375,11,36,4.7,Y,N,N,1,N
+Betty Crocker Classic CCC,Betty Crocker,280,N,N,Y,N,N,1.0,227,N,165,150,315,52.4,47.6,2,N,1.0,340,0.0,375,10,48,4.4,Y,N,N,1,N
+Ina Garten / Food Network CCC,Food Network,280,N,N,Y,N,N,1.0,227,N,165,200,365,45.2,54.8,2,N,2.0,340,0.0,375,12,36,4.6,Y,N,N,1,N
+The Pioneer Woman CCC,The Pioneer Woman,280,N,N,Y,N,N,0.75,227,N,165,150,315,52.4,47.6,2,N,1.5,340,0.0,375,11,36,4.5,Y,N,N,1,N
+Half Baked Harvest Brown Butter CCC,Half Baked Harvest,250,N,N,Y,N,N,0.75,227,Y,220,100,320,68.8,31.2,1,Y,2.0,255,0.5,350,12,20,4.8,N,Y,Y,2,N
+Ambitious Kitchen Brown Butter CCC,Ambitious Kitchen,240,N,N,Y,N,N,0.75,227,Y,200,100,300,66.7,33.3,1,Y,2.0,255,0.5,350,11,22,4.8,N,Y,Y,2,N
+Joshua Weissman Bakery Style CCC,Joshua Weissman,280,Y,N,Y,Y,N,1.0,227,Y,200,150,350,57.1,42.9,2,Y,2.0,400,24.0,350,14,12,4.8,N,Y,Y,2,N
+Tasty Classic CCC,Tasty / BuzzFeed,280,N,N,Y,N,N,1.0,227,N,165,150,315,52.4,47.6,2,N,1.0,340,0.5,350,12,24,4.5,Y,N,N,1,N
+Bon Appetit Bakery Style CCC,Bon Appetit,260,N,N,Y,N,N,1.0,200,Y,200,100,300,66.7,33.3,1,Y,2.0,300,0.0,375,12,18,4.7,Y,Y,Y,3,Y
+Two Peas and Their Pod CCC,Two Peas and Their Pod,280,N,N,Y,N,Y,1.0,170,N,200,100,300,66.7,33.3,1,Y,2.0,255,1.0,350,11,24,4.8,N,Y,N,1,N
+Averie Cooks Brown Butter CCC,Averie Cooks,250,N,N,Y,N,Y,0.75,170,Y,220,50,270,81.5,18.5,1,Y,2.0,255,1.0,350,12,20,4.8,N,Y,Y,2,N
+Live Well Bake Often Classic CCC,Live Well Bake Often,280,N,N,Y,N,N,1.0,227,N,165,150,315,52.4,47.6,1,Y,2.0,255,0.0,375,11,30,4.7,Y,Y,N,2,N
+Handle the Heat Classic CCC,Handle the Heat,280,N,N,Y,N,N,1.0,227,N,220,150,370,59.5,40.5,1,Y,2.0,255,0.5,350,11,24,4.7,N,Y,N,1,N
+Cooking Classy Classic CCC,Cooking Classy,280,N,N,Y,N,Y,0.75,227,N,165,150,315,52.4,47.6,1,Y,2.0,255,0.5,375,11,28,4.7,Y,Y,N,2,N
+Joy of Cooking Classic CCC,Joy of Cooking,270,N,N,Y,N,N,0.75,170,N,110,200,310,35.5,64.5,2,N,1.0,255,0.0,375,10,48,4.3,Y,N,N,1,N
+Martha Stewart Classic CCC,Martha Stewart,280,N,N,Y,N,N,1.0,227,N,165,150,315,52.4,47.6,2,N,1.0,340,0.0,375,11,36,4.5,Y,N,N,1,N
+Smitten Kitchen Brown Butter CCC,Smitten Kitchen,260,N,N,Y,N,N,0.75,200,Y,220,80,300,73.3,26.7,1,Y,2.0,285,0.5,375,12,18,4.8,Y,Y,Y,3,Y
+Food52 Classic CCC,Food52,270,N,N,Y,N,N,1.0,227,N,180,150,330,54.5,45.5,1,Y,2.0,255,0.5,375,11,30,4.6,Y,Y,N,2,N
+Minimalist Baker Classic CCC,Minimalist Baker,240,N,N,Y,N,N,0.75,170,N,165,100,265,62.3,37.7,1,N,1.5,170,0.0,350,11,20,4.5,N,Y,N,1,N
